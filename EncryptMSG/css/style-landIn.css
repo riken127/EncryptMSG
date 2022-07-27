@@ -1,0 +1,52 @@
+.conteudo {
+    display: table;
+}
+
+.imagem {
+    display: table-cell;
+    float: right;
+    margin-top: -20px;
+    margin-left: 215.7px;
+}
+
+.texto {
+    display: table-cell;
+    float: right;
+    width: 55rem;
+    margin-left: 0.3px;
+}
+
+.imagem1{
+    display: table-cell;
+    float: left;
+    margin-top: -10px;
+}
+
+.text{
+    display: table-cell;
+    margin-top: 27.3px;
+    float: right;
+    width: 55rem;
+    margin-left: 215.7px;
+    text-align: right;
+}
+
+.titulo-right{
+    text-align: right;    
+}
+
+.junteseanos-text{
+    text-align: center;
+}
+
+.buttonAlign{
+        text-align: center;
+}
+.btn-ctr{
+    left: 50%;
+}
+
+
+.btn-download-nat{
+align-items: center;
+}
